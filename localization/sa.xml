@@ -7,7 +7,7 @@
 		<language iso_code="ar" />
 	</languages>
 	<taxes>
-		<tax id="1" name="VAT SA 5%" rate="5" />
+		<tax id="1" name="VAT SA 15%" rate="15" />
 		<tax id="2" name="VAT SA 0%" rate="0" />
 
 		<taxRulesGroup name="SA Standard Rate (5%)">
